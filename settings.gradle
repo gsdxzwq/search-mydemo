@@ -1,0 +1,5 @@
+rootProject.name = 'search-mydemo'
+include 'elasticsearch'
+include 'lucene'
+include 'suggest'
+
